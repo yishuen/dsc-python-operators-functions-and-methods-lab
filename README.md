@@ -10,6 +10,7 @@ In this lab you will:
 * Use comparison operators to compare objects
 * Use logical operators to incorporate multiple conditions
 * Use identity operators to confirm the identity of an object
+* Figure out methods!!
 
 
 ## Instructions
